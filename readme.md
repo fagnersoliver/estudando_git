@@ -31,3 +31,6 @@ Existem outros sites onde você pode subir seus projetos com Git, como o Gitlab 
 Eu escrevi um post onde te ensino a instalar o Git e configurar o Github, outro ensinando a forkar e clonar um repositório e um terceiro criando e enviando arquivos para o seu repositório.
 
 fonte:http://gabsferreira.com/git-e-github-sao-coisas-diferentes/
+
+
+### Atualizando o documento e fazendo testes de merge com a pasta local
