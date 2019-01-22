@@ -33,4 +33,5 @@ Eu escrevi um post onde te ensino a instalar o Git e configurar o Github, outro 
 fonte:http://gabsferreira.com/git-e-github-sao-coisas-diferentes/
 
 
-### Atualizando o documento e fazendo testes de merge com a pasta local
+- Atualizando o documento e fazendo testes de merge com a pasta local.
+- Atualizando o documento e fazendo testes de merge com a pasta local para o estudo do fecth e pulse.
